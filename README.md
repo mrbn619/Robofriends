@@ -1,5 +1,6 @@
-# robofriends
-  git clone <code link> 
-  cd robofriends
-  npm install
-  npm start
+robofriends
+
+git clone <code>
+cd robofriends
+npm install
+npm start
